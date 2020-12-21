@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Peggy's Cove Lighthouse](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/peggys-cove-lighthouse-jason-schronce.jpg)
